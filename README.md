@@ -15,6 +15,17 @@ Contact: Discord (U: XTatsyy) , Youtube (U: @fwharuki)
 
 ----------
 
+## Features
+
+* 5 Different Assist Versions (Machine, Human, Neural, Style, Fusion)
+* Stockfish 19, Human like modification of Stockfish.
+* Auto-Mode
+* 8 different levels of each mode
+* On-going game detection
+* Free Analysis For Best Move
+* Move Feedback
+
+
 <div align="left">
             <h2>How to Install?</h2>
 </div>
